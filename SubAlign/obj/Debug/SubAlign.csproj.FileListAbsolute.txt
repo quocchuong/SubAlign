@@ -1,0 +1,8 @@
+F:\Projects\SubAlign\SubAlign\bin\Debug\SubAlign.exe
+F:\Projects\SubAlign\SubAlign\bin\Debug\SubAlign.pdb
+F:\Projects\SubAlign\SubAlign\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\SubAlign\SubAlign\obj\Debug\SubAlign.frmSubAlign.resources
+F:\Projects\SubAlign\SubAlign\obj\Debug\SubAlign.Properties.Resources.resources
+F:\Projects\SubAlign\SubAlign\obj\Debug\SubAlign.csproj.GenerateResource.Cache
+F:\Projects\SubAlign\SubAlign\obj\Debug\SubAlign.exe
+F:\Projects\SubAlign\SubAlign\obj\Debug\SubAlign.pdb
